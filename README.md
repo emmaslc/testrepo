@@ -1,3 +1,2 @@
 # testrepo
-Test repo lol
-hehe
+Test repo
